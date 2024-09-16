@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syasinakts&show_icons=true&bg_color=00000000)
 
-<picture style="min-width:300px">
+<picture style="min-width: 300px; ">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=syasinakts&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
