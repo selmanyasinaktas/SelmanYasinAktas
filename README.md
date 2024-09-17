@@ -5,7 +5,7 @@
 
 
 
-<p dir="auto">I'm Yasin and i am a Junior FrontEnd developer</p>
+<p dir="auto">I'm Yasin and i am a Junior FrontEnd developer.</p>
 <p dir="auto"><strong>:mag: About me</strong></p>
 <ul dir="auto">
 <li>
@@ -27,15 +27,16 @@
   <a href="https://www.linkedin.com/in/selman-yasin-akta%C5%9F-34243a253">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@yasinakta%C5%9F-x9c">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/syasinakts">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=syasinakts&style=flat-square&color=blueviolet" alt=""/>
 </div>
+<br/>
 
 
 
