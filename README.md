@@ -52,7 +52,7 @@
     <thead>
       <tr>
         <th><img src="https://github-readme-stats.vercel.app/api?username=syasinakts&show_icons=true&margin-left=auto" alt="Anurag's GitHub stats" style="height: 200px; width: 480px;"></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syasinakts&size_weight=0.1&count_weight=0.1&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
+        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syasinakts&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
       </tr>
     </thead>
   </table>
