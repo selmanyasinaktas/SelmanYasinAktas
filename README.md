@@ -18,7 +18,7 @@
 <p dir="auto">❤️ I love writing TypeScript and JavaScript.</p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about anything <a href="https://github.com/syasinakts/syasinakts/issues">here</a></p>
+<p dir="auto">💬 Ask me about anything <a href="https://github.com/selmanyasinaktas/SelmanYasinAktas/issues">here</a></p>
 </li>
 </ul>
 
@@ -51,8 +51,8 @@
   <table>
     <thead>
       <tr>
-        <th><img src="https://github-readme-stats.vercel.app/api?username=syasinakts&show_icons=true&margin-left=auto" alt="Anurag's GitHub stats" style="height: 200px; width: 480px;"></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syasinakts&size_weight=0.1&count_weight=0.1&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
+        <th><img src="https://github-readme-stats.vercel.app/api?username=selmanyasinaktas&show_icons=true&margin-left=auto" alt="Anurag's GitHub stats" style="height: 200px; width: 480px;"></th>
+        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanyasinaktas&size_weight=0.1&count_weight=0.1&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
       </tr>
     </thead>
   </table>
