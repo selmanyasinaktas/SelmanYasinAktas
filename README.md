@@ -12,7 +12,7 @@
 <p dir="auto">🔭 I’m currently working on FrontEnd developing.</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning Angular and Vue.</p>
+<p dir="auto">🌱 I currently work with Vue and Next.js.</p>
 </li>
 <li>
 <p dir="auto">❤️ I love writing TypeScript and JavaScript.</p>
