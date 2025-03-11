@@ -5,7 +5,7 @@
 
 
 
-<p dir="auto">I'm Yasin and i am a Junior Software Developer.</p>
+<p dir="auto">I'm Yasin and i am a Software Developer.</p>
 <p dir="auto"><strong>:mag: About me</strong></p>
 <ul dir="auto">
 <li>
