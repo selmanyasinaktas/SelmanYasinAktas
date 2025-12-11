@@ -42,6 +42,9 @@
   <a href="https://x.com/syasinakts">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://medium.com/@selmanyasin">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=syasinakts&style=flat-square&color=blueviolet" alt=""/>
 </div>
