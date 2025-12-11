@@ -58,8 +58,8 @@
   <table>
     <thead>
       <tr>
-        <th><img src="https://github-readme-stats.vercel.app/api?username=selmanyasinaktas&show_icons=true&margin-left=auto" alt="Anurag's GitHub stats" style="height: 200px; width: 480px;"></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanyasinaktas&size_weight=0.1&count_weight=0.1&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
+        <th><img src="https://github-readme-stats-alpha-green-98.vercel.app/api?username=selmanyasinaktas&show_icons=true" alt="GitHub stats" style="height: 200px; width: 480px;"></th>
+        <th><img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=selmanyasinaktas&layout=compact" alt="Top Langs"  style="height: 200px; width: 430px;"></th>
       </tr>
     </thead>
   </table>
