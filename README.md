@@ -30,6 +30,9 @@
 
 
 <br/>
+<br/>
+<br/>
+
 
 
 <div id="badges" align="center">
@@ -45,6 +48,7 @@
   <a href="https://medium.com/@selmanyasin">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=syasinakts&style=flat-square&color=blueviolet" alt=""/>
 </div>
