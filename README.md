@@ -18,7 +18,7 @@
 <p dir="auto">❤️ I love writing TypeScript and JavaScript.</p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about anything <a href="https://github.com/selmanyasinaktas/SelmanYasinAktas/issues">here</a></p>
+<p dir="auto">💬 Ask me about anything <a href="mailto:selmanyasin@gmail.com">here</a></p>
 </li>
  
 </ul>
