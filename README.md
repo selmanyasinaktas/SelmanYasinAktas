@@ -5,35 +5,31 @@
 
 
 
-<p dir="auto">I'm Yasin and i am a Software Developer.</p>
-<p dir="auto"><strong>:mag: About me</strong></p>
-<ul dir="auto">
-<li>
-<p dir="auto">🔭 I’m currently working on FrontEnd developing.</p>
-</li>
-<li>
-<p dir="auto">🌱 I currently work with Vue and Next.js.</p>
-</li>
-<li>
-<p dir="auto">❤️ I love writing TypeScript and JavaScript.</p>
-</li>
-<li>
-<p dir="auto">💬 Ask me about anything <a href="mailto:selmanyasin@gmail.com">here</a></p>
-</li>
- 
-</ul>
- <div>
+<div align="center">
+
+  <p dir="auto">I'm Yasin and i am a Software Developer.</p>
+  <p dir="auto"><strong>:mag: About me</strong></p>
+
+  <ul dir="auto" style="list-style: none; padding: 0;">
+    <p>🔭 I’m currently working on FrontEnd developing.<p/>
+    <p>🌱 I currently work with Vue and Next.js.<p/>
+    <p>❤️ I love writing TypeScript and JavaScript.<p/>
+    <p>💬 Ask me about anything <a href="mailto:selmanyasin@gmail.com">here</a><p/>
+  </ul>
+
+  <div>
     <p dir="auto"><strong>🌐 My Personal Website</strong></p>
     🚀 You can check out my personal portfolio website 
     <a href="https://selmanyasinaktas.vercel.app"><strong>here</strong></a>!
   </div>
 
+</div>
+
+ 
+</ul>
 
 <br/>
 <br/>
-<br/>
-
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/selman-yasin-akta%C5%9F-34243a253">
