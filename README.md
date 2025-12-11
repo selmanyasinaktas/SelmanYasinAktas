@@ -36,12 +36,12 @@
   <a href="https://www.linkedin.com/in/selman-yasin-akta%C5%9F-34243a253">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@yasinakta%C5%9F-x9c">
+ <!-- <a href="https://www.youtube.com/@yasinakta%C5%9F-x9c">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/syasinakts">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
   <a href="https://medium.com/@selmanyasin">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
